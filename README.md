@@ -76,6 +76,5 @@ This JavaScript file controls the **Tic Tac Toe game logic**, including:
 ✔ Winner detection  
 ✔ Game resets  
 
-Would you like any **improvements or optimizations**? 🚀
 
 
