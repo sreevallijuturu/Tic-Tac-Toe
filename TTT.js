@@ -25,6 +25,9 @@ let checkwinner = () => {
             }
         }
     }
+    if ([...boxes].every(box => box.innerText !== "")) {
+        heading.innerText = "It's a Draw!";
+    }
 };
 
 //function to disable the boxes
